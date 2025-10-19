@@ -1,0 +1,12 @@
+question,expected,response,similarity,time_seconds
+Metal bir kaşık üreticisiyim hangi deneyleri yaptırabilirim?,"Malzeme dayanımı, korozyon ve sertlik testleri yapılabilir."," As a metal spoon producer, you can conduct the following tests:
+
+* Chemical composition analysis using LCR-METRE (GW INSTEK, 8110G) and KEITHLEY 2612A SMU.
+* Material properties testing such as hardness, tensile strength, and corrosion resistance using RAD7 (Durridge Co.) a solid-state alpha detector.
+
+(Note: The text is about the laboratory's capabilities and certifications. It does not provide specific information on how to conduct tests or what",0.13307240704500978,99.04084730148315
+Alan emisyonlu taramalı elektron mikroskobunda ne yapılır?,SEM ile numune yüzey yapısı ve kompozisyonu incelenir.," PDF içeriğine göre, RAD7 bir Sürekli Radon Monitörüdür ve hızlı bir toron ölçümü için bir toron kızının ani  alfa bozunmasını da tespit edebilir. Ayrıca EPA aksiyon seviyesini   (4 pCi / L) ölçebilen bir monitördür. 
+(1-2 sentence short and concise answer based on the PDF content: RAD7 is a Continuous Radon Monitor that can detect rapid alpha decay",0.11851851851851852,89.12412428855896
+Seramik üretiminde kullanılan fırın tipleri nelerdir?,"Asansörlü fırın, kamara fırın ve kutu tipi fırınlar kullanılır."," PDF içeriğine dayanarak kısa ve öz cevap: Fırın tiplerinin birçoğu seramik üretimi için kullanılır. Bunlardan bazıları; gaz fırını, elektrikli fırın, ısı transfer fırını, radyant fırın, tüp fırını, rotary kiln, tunnel furnace, pusher type furnace, roller hearth furnace ve shuttle kiln'dir.
+(Toran measure for a quick measurement of radon and thorium. RAD7 is also able",0.13394919168591224,95.54190754890442
+Spektrum analizi yaptırmak istiyorum hangi laboratuvarda yaptırabilirim?,Spektrum analizini SEMAM laboratuvarında yaptırabilirsiniz.," RAD7 cihazı ile spektrum analizini üniversitedeki fizik veya kimya departmanlarında yapabilirsiniz. Cihazın yüksek tekrarlama hızı ve 3 boyutlu bilgisayar kontrollü travers mekanizması sayesinde analiz sırasında taranan alan veya hacim içinde gezinme yapılabiliyor, bu sayede daha büyük bölgeler üzerinde analiz yapılabilmektedir. Üniversitedeki laboratuvarlarda RAD7 cihazı ile spektrum",0.18344519015659955,88.2886610031128

@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+pymupdf
+pymongo
+openai
+spacy
+tqdm
+faiss-cpu
+python-dotenv
